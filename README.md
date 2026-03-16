@@ -20,20 +20,39 @@ I enjoy solving real-world problems, designing REST APIs, and building efficient
 
 ## 🛠 Tech Stack
 
-**Languages**
-JavaScript • TypeScript • Python • Java
+### 💻 Languages
 
-**Frontend**
-React.js • Next.js • TailwindCSS • HTML • CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk)
 
-**Backend**
-Node.js • Express.js • Django
+### 🎨 Frontend
 
-**Databases & ORMs**
-MongoDB • MySQL • PostgreSQL • Firebase • Prisma
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
 
-**Tools & Platforms**
-Git • GitHub • Postman • JWT Authentication
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge\&logo=express)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge\&logo=django)
+
+### 🗄 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
 
 ---
 
