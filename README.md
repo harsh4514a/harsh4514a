@@ -136,8 +136,8 @@ Features:
 
 📧 Email: [harshgondaliya4590@gmail.com](mailto:harshgondaliya4590@gmail.com)
 
-📱 Mobile: +91 8160314298
+📱 Mobile: +91-8160314298
 
-🔗 LinkedIn: linkedin.com/in/harshgondaliya4514
+🔗 LinkedIn: https://linkedin.com/in/harshgondaliya4514
 
 
