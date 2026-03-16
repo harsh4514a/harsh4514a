@@ -113,12 +113,6 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
-
-(You can add GitHub statistics widgets here)
-
----
-
 ## 📫 Contact
 
 📧 Email: [harshgondaliya4590@gmail.com](mailto:harshgondaliya4590@gmail.com)
