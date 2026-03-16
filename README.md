@@ -122,5 +122,9 @@ Features:
 ## 📫 Contact
 
 📧 Email: [harshgondaliya4590@gmail.com](mailto:harshgondaliya4590@gmail.com)
+
+📱 Mobile: +91 8160314298
+
 🔗 LinkedIn: linkedin.com/in/harshgondaliya4514
-💻 GitHub: github.com/harsh4514a
+
+
