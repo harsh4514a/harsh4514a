@@ -84,7 +84,7 @@ I enjoy solving real-world problems, designing REST APIs, and building efficient
 
 Campus issue reporting platform with centralized admin dashboard.
 
-**Tech Stack:** React.js • Next.js • Node.js • Express.js • MongoDB
+**Tech Stack:** React.js • Next.js • Node.js • Express.js • TypeScript • MongoDB
 
 Features:
 
