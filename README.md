@@ -124,7 +124,7 @@ Features:
 ---
 
 ## 📜 Certifications
-
+* Cloud Computing - **NPTEL (Elite + Silver, Top 5%)**
 * Introduction to Machine Learning — **NPTEL (Elite)**
 * Supervised Machine Learning: Regression — **Coursera (IBM)**
 * Agile Project Management — **Coursera (Google)**
